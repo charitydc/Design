@@ -1,0 +1,107 @@
+%!Adobe-FontList 1.14
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CC
+FamilyName:CC
+StyleName:CC
+MenuName:CC
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:CC CC
+WritingScript:Roman
+OutlineFileName:\cc-webfont.ttf
+DataFormat:sfntData
+FileLength:12728
+FileModTime:1429021996
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CourierNewPSMT
+FamilyName:Courier New
+StyleName:Regular
+MenuName:Courier New
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Courier New
+WritingScript:Roman
+OutlineFileName:\Courier New.ttf
+DataFormat:sfntData
+FileLength:684624
+FileModTime:1410339211
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-BoldIt
+FamilyName:Minion Pro
+StyleName:Bold Italic
+MenuName:Minion Pro
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Minion Pro Bold Italic
+WritingScript:Roman
+OutlineFileName:\MinionPro-BoldIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:257148
+FileModTime:1397693942
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-It
+FamilyName:Minion Pro
+StyleName:Italic
+MenuName:Minion Pro
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Minion Pro Italic
+WritingScript:Roman
+OutlineFileName:\MinionPro-It.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:258056
+FileModTime:1397693942
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:217280
+FileModTime:1397693942
+DesignSize:110
+%EndFont
+
